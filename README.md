@@ -7,8 +7,13 @@
 
 ## Screenshots
 ### Run with `npm start`
-![npm start](https://raw.githubusercontent.com/Arstman/kittes-substrate-l/main/screenshots/kitties.png)
-### Create Kitty 
-![Create Kitty](https://raw.githubusercontent.com/Arstman/kittes-substrate-l/main/screenshots/kittie_create.png)
+![npm start](https://raw.githubusercontent.com/Arstman/kitties-frontend/main/screenshots/kitties-front-end-runing.png)
+### show kitties with badges
+![Create Kitty](https://raw.githubusercontent.com/Arstman/kitties-frontend/main/screenshots/kitties-front-end-runing-create.png)
 
 
+### create kitty works
+![Create Kitty](https://raw.githubusercontent.com/Arstman/kitties-frontend/main/screenshots/kitties-front-end-create-works.png)
+
+### transfer kitty works
+![after transfer](https://raw.githubusercontent.com/Arstman/kitties-frontend/main/screenshots/kitties-front-end-runing-after-transfer.png)
