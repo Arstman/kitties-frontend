@@ -5,6 +5,8 @@
 #### Team: #2
 #### SID: 022
 
+## major code file
+[frontend/src/Kitties.js](https://github.com/Arstman/kitties-frontend/blob/main/frontend/src/Kitties.js_
 ## Screenshots
 ## Run with `npm start`
 ![npm start](https://raw.githubusercontent.com/Arstman/kitties-frontend/main/screenshots/kitties-front-end-runing.png)
