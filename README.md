@@ -6,7 +6,7 @@
 #### SID: 022
 
 ## major code file
-[frontend/src/Kitties.js](https://github.com/Arstman/kitties-frontend/blob/main/frontend/src/Kitties.js_
+[frontend/src/Kitties.js](https://github.com/Arstman/kitties-frontend/blob/main/frontend/src/Kitties.js)
 ## Screenshots
 ## Run with `npm start`
 ![npm start](https://raw.githubusercontent.com/Arstman/kitties-frontend/main/screenshots/kitties-front-end-runing.png)
