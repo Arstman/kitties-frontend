@@ -19,7 +19,7 @@
 
 ### 2. run front-end
 1. go to `front-end` dir and then install deps use `pnpm install` or `npm install` or `yarn install`.
-2. start front-end by use `pnpm start`/`npm start/`yarn start`.
+2. start front-end by use `pnpm start`/`npm start`/`yarn start`.
 
 
 ## Screenshots
