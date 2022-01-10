@@ -29,19 +29,19 @@
 ![npm start](https://raw.githubusercontent.com/Arstman/kitties-frontend/main/screenshots/kitties-front-end-runing.png)
 
 
-
+<br/>
 ### show kitties with badges
 
 
 ![Create Kitty](https://raw.githubusercontent.com/Arstman/kitties-frontend/main/screenshots/kitties-front-end-runing-create.png)
 
-
+<br/>
 ### create kitty works
 
 
 ![Create Kitty](https://raw.githubusercontent.com/Arstman/kitties-frontend/main/screenshots/kitties-front-end-create-works.png)
 
-
+<br/>
 ### transfer kitty works
 
 
